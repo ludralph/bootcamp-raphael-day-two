@@ -1,0 +1,33 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "Javascript class, inheritance and oop",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test/test.js --require babel-polyfill --compilers js:babel-register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludralph/bootcamp-raphael-day-two.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Es6",
+    "OOP"
+  ],
+  "author": "Raphael",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.5.2",
+    "babel-register": "^6.24.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ludralph/bootcamp-raphael-day-two/issues"
+  },
+  "homepage": "https://github.com/ludralph/bootcamp-raphael-day-two#readme"
+}
