@@ -22,7 +22,7 @@ for example:
               this.totalSalary = 0;
         	}
   }
-    ```
+  ```
  3. Achieving Inheritance by means of the extends keyword after the class declaration and calling the superclass constructor by means of     the super keyword. For example
  ```javascript
   class Intern extends Employee {
